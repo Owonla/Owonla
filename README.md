@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Owonla
 - 👀 I’m interested in data science 
-- 🌱 I’m currently learning python and SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python and R
+- 💞️ I’m looking to collaborate on Data science projects, ML Algorithms
+- 📫 How to reach me lanreowonla@gmai.com
 
 <!---
 Owonla/Owonla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
